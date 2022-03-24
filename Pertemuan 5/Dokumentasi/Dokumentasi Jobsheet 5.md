@@ -18,9 +18,11 @@ TI-1G | 01 | 2141720114
    - Conquer = n*.faktorialDC(n-1) penyelesaian dengan rekursif.
    - Combine = n*faktorialDC(n-1) pengombinasian dengan perkalian.
 3. Ya memungkinkan bahkan sangat mungkin
+   
    - 
      
      <img src = 'while.png'>
+     
    - 
     
      <img src = 'dowhile.png'>
